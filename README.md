@@ -1,69 +1,66 @@
 # Steven Ricardo Leonel Sanchez
 
-Desarrollador web autodidacta con experiencia real en construccion de productos SaaS. Construi una plataforma completa con reservas online, pagos, automatizaciones y SEO automatico con IA. Trabajo de forma autonoma combinando codigo y herramientas de inteligencia artificial para entregar resultados rapidos y de calidad.
+Desarrollador web autodidacta con experiencia real en construcción de productos SaaS.
+Construí una plataforma completa con reservas online, pagos, automatizaciones y SEO
+automático con IA. Trabajo de forma autónoma combinando código y herramientas de
+inteligencia artificial para entregar resultados rápidos y de calidad.
 
-## Sobre mi
+## Sobre mí
 
-- Desarrollador web enfocado en productos reales y automatizacion
+- Desarrollador web enfocado en productos reales y automatización
 - Experiencia construyendo soluciones fullstack orientadas a negocio
-- Interes en SaaS, IA aplicada, SEO programático y sistemas operativos para pymes
+- Interés en SaaS, IA aplicada, SEO programático y sistemas operativos para pymes
 
-## Proyecto destacado
+## 🚀 Proyecto destacado
 
-### GetSolo
-Plataforma SaaS para negocios de servicios que centraliza reservas, pagos y gestion operativa.
+### GetSolo — [getsolo.site](https://getsolo.site)
 
-**Proyecto:** [GetSolo](https://getsolo.site)
+Plataforma SaaS para negocios de servicios que centraliza reservas, pagos y gestión operativa.
 
 - Desarrollo fullstack con `Next.js`, `React` y `TypeScript`
 - Backend con `Supabase` (`PostgreSQL`, `Auth`, `Storage`, `RLS`)
-- Integracion de pagos con `MercadoPago` y `Dodo Payments`
-- Automatizacion de mensajes via `WhatsApp API`
-- Sistema de generacion automatica de contenido SEO mediante cron jobs
+- Integración de pagos con `MercadoPago` y `Dodo Payments`
+- Automatización de mensajes vía `WhatsApp API`
+- Sistema de generación automática de contenido SEO mediante cron jobs (3x/semana)
 - Deploy en `Vercel` con arquitectura escalable
 - Estructura multi-mercado optimizada para SEO
 
-## IA y automatizacion
+## 🤖 IA y automatización
 
 Uso avanzado de herramientas de IA como parte del flujo de desarrollo diario.
 
-- Generacion de codigo con Claude y Codex
-- Creacion de agentes personalizados para tareas repetitivas
-- Automatizacion de contenido SEO con IA
-- Debugging y optimizacion de flujos asistidos por IA
-- Reduccion del tiempo de desarrollo con prompts y procesos especializados
+- Generación de código con Claude (Anthropic) y Codex (OpenAI)
+- Creación de agentes personalizados para tareas repetitivas
+- Automatización de contenido SEO con IA
+- Debugging y optimización de flujos asistidos por IA
+- Reducción del tiempo de desarrollo con prompts y procesos especializados
 
-## Tecnologias
+## 🛠 Tecnologías
 
-### Frontend
-- `React`
-- `Next.js`
-- `TypeScript`
-- `Tailwind CSS`
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-### Backend y base de datos
-- `Node.js`
-- `Supabase`
-- `PostgreSQL`
-- `Auth`
-- `RLS`
+**Backend & Base de datos**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-### Pagos e integraciones
-- `MercadoPago`
-- `Dodo Payments`
-- `Kapso`
-- `WhatsApp API`
+**Pagos e integraciones**
+![MercadoPago](https://img.shields.io/badge/MercadoPago-00B1EA?style=flat&logo=mercadopago&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat&logo=whatsapp&logoColor=white)
 
-### Deploy
-- `Vercel`
+**Deploy**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-## Formacion academica
+## 🎓 Formación académica
 
-- Tecnico en Administracion de las Organizaciones - E.E.S.T N 4
-- Licenciatura en Sistemas en curso - UNGS
+- Técnico en Administración de las Organizaciones — E.E.S.T N° 4
+- Licenciatura en Sistemas (en curso) — UNGS
 
-## Contacto
+## 📬 Contacto
 
-- Email: [leosanmoto@gmail.com](mailto:leosanmoto@gmail.com)
-- GitHub: [github.com/Leiito98](https://github.com/Leiito98)
-- LinkedIn: [linkedin.com/in/stevenrleonelsanchez](https://linkedin.com/in/stevenrleonelsanchez)
+- 📧 [leosanmoto@gmail.com](mailto:leosanmoto@gmail.com)
+- 💼 [linkedin.com/in/stevenrleonelsanchez](https://linkedin.com/in/stevenrleonelsanchez)
